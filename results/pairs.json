@@ -1,0 +1,318 @@
+{
+ "seed": 2026,
+ "reps": 2000,
+ "start": "2026-10-24 00:00:00",
+ "note": "95% interval of 'first minus second': seconds for latency, percentage points for duplicate, minutes for sticky-life; an interval containing 0 is a tie",
+ "pairs": {
+  "Floppydata|Decodo": {
+   "latency": [
+    0.056,
+    0.382
+   ],
+   "latency-p90": [
+    0.341,
+    1.525
+   ],
+   "duplicate": [
+    -4.6679,
+    -0.2967
+   ],
+   "duplicate-run": [
+    4.3115,
+    5.063
+   ],
+   "runs": 24,
+   "latency-sg": [
+    -0.075,
+    0.141
+   ],
+   "sticky-life": [
+    -24.5,
+    -19.5
+   ],
+   "sessions": [
+    384,
+    384
+   ]
+  },
+  "Floppydata|Oxylabs": {
+   "latency": [
+    0.1175,
+    0.422
+   ],
+   "latency-p90": [
+    0.447,
+    1.521
+   ],
+   "duplicate": [
+    -4.998,
+    -0.6211
+   ],
+   "duplicate-run": [
+    4.1952,
+    4.8669
+   ],
+   "runs": 24,
+   "latency-sg": [
+    -0.073,
+    0.142
+   ],
+   "sticky-life": [
+    -24.5,
+    -19.5
+   ],
+   "sessions": [
+    384,
+    384
+   ]
+  },
+  "Floppydata|Evomi": {
+   "latency": [
+    0.068,
+    0.45
+   ],
+   "latency-p90": [
+    0.269,
+    1.414
+   ],
+   "duplicate": [
+    -22.4473,
+    -16.2041
+   ],
+   "duplicate-run": [
+    2.5824,
+    3.8672
+   ],
+   "runs": 24,
+   "latency-sg": [
+    -0.341,
+    -0.13
+   ],
+   "sticky-life": [
+    -24.5,
+    -19.0
+   ],
+   "sessions": [
+    384,
+    384
+   ]
+  },
+  "Floppydata|SOAX": {
+   "latency": [
+    0.017,
+    0.3295
+   ],
+   "latency-p90": [
+    0.201,
+    1.323
+   ],
+   "duplicate": [
+    -28.6044,
+    -24.1147
+   ],
+   "duplicate-run": [
+    -8.3171,
+    -6.0406
+   ],
+   "runs": 24,
+   "latency-sg": [
+    -0.235,
+    -0.025
+   ],
+   "sticky-life": [
+    -12.0,
+    -3.75
+   ],
+   "sessions": [
+    384,
+    384
+   ]
+  },
+  "Floppydata|DataImpulse": {
+   "latency": [
+    0.042,
+    0.353
+   ],
+   "latency-p90": [
+    -0.948,
+    0.132
+   ],
+   "duplicate": [
+    -34.9045,
+    -30.9288
+   ],
+   "duplicate-run": [
+    -11.8707,
+    -9.723
+   ],
+   "runs": 24,
+   "latency-sg": [
+    -0.157,
+    0.048
+   ],
+   "sticky-life": [
+    -24.5,
+    -19.5
+   ],
+   "sessions": [
+    384,
+    384
+   ]
+  },
+  "Floppydata|ProxyEmpire": {
+   "latency": [
+    -0.1315,
+    0.246
+   ],
+   "latency-p90": [
+    -0.459,
+    0.661
+   ],
+   "duplicate": [
+    -5.2072,
+    -2.6132
+   ],
+   "duplicate-run": [
+    -0.378,
+    0.9202
+   ],
+   "runs": 24,
+   "latency-sg": [
+    -0.61,
+    -0.407
+   ],
+   "sticky-life": [
+    -2.5,
+    3.5
+   ],
+   "sessions": [
+    384,
+    384
+   ]
+  },
+  "Floppydata|NodeMaven": {
+   "latency": [
+    -0.406,
+    -0.0045
+   ],
+   "latency-p90": [
+    -1.316,
+    -0.167
+   ],
+   "duplicate": [
+    -8.5728,
+    -5.7479
+   ],
+   "duplicate-run": [
+    2.2015,
+    3.1088
+   ],
+   "runs": 24,
+   "latency-sg": [
+    -0.773,
+    -0.554
+   ],
+   "sticky-life": [
+    -24.75,
+    -19.5
+   ],
+   "sessions": [
+    384,
+    384
+   ]
+  },
+  "Floppydata|IPRoyal": {
+   "latency": [
+    -0.31,
+    0.078
+   ],
+   "latency-p90": [
+    -1.405,
+    -0.219
+   ],
+   "duplicate": [
+    1.3484,
+    4.6968
+   ],
+   "duplicate-run": [
+    3.3704,
+    4.1917
+   ],
+   "runs": 24,
+   "latency-sg": [
+    -0.624,
+    -0.391
+   ],
+   "sticky-life": [
+    -24.5,
+    -19.5
+   ],
+   "sessions": [
+    384,
+    384
+   ]
+  },
+  "Floppydata|Byteful": {
+   "latency": [
+    0.22,
+    0.571
+   ],
+   "latency-p90": [
+    0.673,
+    1.722
+   ],
+   "duplicate": [
+    -15.9338,
+    -12.0349
+   ],
+   "duplicate-run": [
+    -3.5311,
+    -1.7526
+   ],
+   "runs": 24,
+   "latency-sg": [
+    -0.1635,
+    0.153
+   ],
+   "sticky-life": [
+    -24.5,
+    -19.5
+   ],
+   "sessions": [
+    384,
+    384
+   ]
+  },
+  "Floppydata|ResiProx": {
+   "latency": [
+    -0.181,
+    0.201
+   ],
+   "latency-p90": [
+    -0.253,
+    0.848
+   ],
+   "duplicate": [
+    -18.7006,
+    -14.3151
+   ],
+   "duplicate-run": [
+    -7.9109,
+    -4.8071
+   ],
+   "runs": 24,
+   "latency-sg": [
+    -0.585,
+    -0.375
+   ],
+   "sticky-life": [
+    -11.5,
+    -2.25
+   ],
+   "sessions": [
+    384,
+    384
+   ]
+  }
+ }
+}

@@ -1,0 +1,722 @@
+Provider,Country,Network (ASN organization),IPs
+byteful,BR,TELEFONICA BRASIL S.A,28
+byteful,BR,TIM S/A,22
+byteful,BR,Claro S/A,19
+byteful,BR,CLARO S.A.,14
+byteful,BR,BRISANET SERVICOS DE TELECOMUNICACOES S.A,1
+byteful,DE,Telefonica Germany,43
+byteful,DE,Deutsche Telekom AG,26
+byteful,DE,Vodafone GmbH,15
+byteful,ES,Digi Spain Telecom S.A,26
+byteful,ES,Xtra Telecom S.A.,15
+byteful,ES,Procono S.A.,13
+byteful,ES,"Avatel Telecom, SA",12
+byteful,ES,Orange Espagne SA,10
+byteful,ES,Telefonica De Espana S.a.u.,4
+byteful,ES,Aire Networks Del Mediterraneo Sl Unipersonal,3
+byteful,ES,Itegal Servicios Tic S.l.,1
+byteful,FR,Free Mobile SAS,33
+byteful,FR,Societe Francaise Du Radiotelephone - SFR SA,28
+byteful,FR,Bouygues Telecom SA,14
+byteful,FR,Orange,6
+byteful,FR,Lycatel Distribution Uk Limited,3
+byteful,GB,Three,31
+byteful,GB,British Telecommunications Limited,22
+byteful,GB,Vodafone Limited,17
+byteful,GB,O2 UK,13
+byteful,ID,PT. Telekomunikasi Selular,33
+byteful,ID,INDOSAT Internet Network Provider,32
+byteful,ID,PT XL Axiata,13
+byteful,ID,PT WIRELESS INDONESIA ( WIN ),3
+byteful,ID,Orion Cyber Internet,1
+byteful,ID,PT Telekomunikasi Indonesia,1
+byteful,IN,Reliance Jio Infocomm Limited,45
+byteful,IN,Bharti Airtel Ltd. AS for GPRS Service,25
+byteful,IN,Vodafone Idea Ltd,8
+byteful,IN,BHARTI Airtel Ltd.,2
+byteful,IN,"Bharti Airtel Ltd., Telemedia Services",1
+byteful,IN,National Internet Backbone,1
+byteful,IN,Excitel Broadband Private Limited,1
+byteful,PL,T-Mobile Polska S.A.,34
+byteful,PL,Orange Polska Spolka Akcyjna,21
+byteful,PL,Play,18
+byteful,PL,Polkomtel Sp. z o.o.,10
+byteful,TR,Vodafone Telekomunikasyon A.S.,35
+byteful,TR,TT Mobil Iletisim Hizmetleri A.S,29
+byteful,TR,Turkcell Iletisim Hizmetleri A.s.,19
+byteful,UA,PrJSC VF UKRAINE,34
+byteful,UA,Kyivstar PJSC,26
+byteful,UA,Limited Liability Company lifecell,23
+byteful,US,"T-Mobile USA, Inc.",56
+byteful,US,Verizon Business,14
+byteful,US,"AT&T Enterprises, LLC",12
+byteful,US,"Comcast Cable Communications, LLC",1
+byteful,VN,Viettel Group,35
+byteful,VN,VNPT Corp,21
+byteful,VN,MOBIFONE Corporation,14
+byteful,VN,FPT Telecom Company,11
+byteful,VN,Mobifone Global JSC,1
+byteful,VN,Vietnamobile Telecommunications Joint Stock Company,1
+dataimpulse,BR,TELEFONICA BRASIL S.A,16
+dataimpulse,BR,Claro S/A,16
+dataimpulse,BR,CLARO S.A.,15
+dataimpulse,BR,TIM S/A,13
+dataimpulse,BR,Space Exploration Technologies Corporation,2
+dataimpulse,BR,Wellington Paiva Damascena - ME,1
+dataimpulse,BR,MOBILELINK PROVEDOR DE SERVICOS DE INTERNET LTDA,1
+dataimpulse,BR,SPEED PLANET TELECOMUNICACOES LTDA - EPP,1
+dataimpulse,BR,ALLREDE TELECOM LTDA,1
+dataimpulse,BR,NovaNet Provedor e Web Ltda,1
+dataimpulse,BR,CALLNET TELECOM,1
+dataimpulse,BR,VB Telecom Com. e Serv. de Info Ltda,1
+dataimpulse,BR,FAST WEB,1
+dataimpulse,BR,METROFLEX TELECOMUNICACOES LTDA,1
+dataimpulse,BR,Fronteira Internet,1
+dataimpulse,BR,J.A TELECOM.PE,1
+dataimpulse,BR,Latitude.sh LTDA,1
+dataimpulse,BR,LC TELECOM LTDA,1
+dataimpulse,BR,3D TELECOMUNICACOES LTDA,1
+dataimpulse,BR,UNIFIQUE TELECOMUNICACOES S/A,1
+dataimpulse,BR,NAVEX INTERNET LTDA,1
+dataimpulse,BR,REDE CONEXAONET,1
+dataimpulse,BR,MZ NET FIBRA,1
+dataimpulse,BR,EVOLUNET PROVEDORA DE INTERNET LTDA PE,1
+dataimpulse,BR,N-MULTIMIDIA TELECOMUNICACOES LTDA - ME,1
+dataimpulse,BR,ALGAR TELECOM S/A,1
+dataimpulse,BR,USONET INTERNET TECNOLOGIC EIRELI,1
+dataimpulse,DE,Telefonica Germany,56
+dataimpulse,DE,Vodafone GmbH,23
+dataimpulse,DE,Lycatel Distribution Uk Limited,5
+dataimpulse,ES,Digi Spain Telecom S.A,34
+dataimpulse,ES,Orange Espagne SA,19
+dataimpulse,ES,Xtra Telecom S.A.,12
+dataimpulse,ES,Procono S.A.,5
+dataimpulse,ES,Telefonica De Espana S.a.u.,5
+dataimpulse,ES,"Avatel Telecom, SA",4
+dataimpulse,ES,Vodafone Spain,4
+dataimpulse,ES,"Fibra A La Porta, S.l.",1
+dataimpulse,FR,Free Mobile SAS,28
+dataimpulse,FR,Societe Francaise Du Radiotelephone - SFR SA,25
+dataimpulse,FR,Bouygues Telecom SA,14
+dataimpulse,FR,Orange,12
+dataimpulse,FR,Lycatel Distribution Uk Limited,4
+dataimpulse,FR,Lebara Ltd,1
+dataimpulse,GB,Daniel Ionita,27
+dataimpulse,GB,British Telecommunications Limited,19
+dataimpulse,GB,Three,13
+dataimpulse,GB,Vodafone Limited,9
+dataimpulse,GB,O2 UK,8
+dataimpulse,GB,Heart Internet limited,7
+dataimpulse,ID,INDOSAT Internet Network Provider,46
+dataimpulse,ID,PT XL Axiata,26
+dataimpulse,ID,PT WIRELESS INDONESIA ( WIN ),9
+dataimpulse,ID,?,1
+dataimpulse,ID,PT Signall Network Nusantara,1
+dataimpulse,IN,Reliance Jio Infocomm Limited,40
+dataimpulse,IN,Bharti Airtel Ltd. AS for GPRS Service,32
+dataimpulse,IN,Vodafone Idea Ltd,8
+dataimpulse,IN,BHARTI Airtel Ltd.,2
+dataimpulse,IN,National Internet Backbone,1
+dataimpulse,PL,Play,29
+dataimpulse,PL,T-Mobile Polska S.A.,23
+dataimpulse,PL,Orange Polska Spolka Akcyjna,19
+dataimpulse,PL,Polkomtel Sp. z o.o.,11
+dataimpulse,PL,ZIPnet sp. z o.o.,1
+dataimpulse,TR,Cypking Network & Communication Ltd,44
+dataimpulse,TR,Vodafone Telekomunikasyon A.S.,13
+dataimpulse,TR,High Speed For Internet Services L.L.C,9
+dataimpulse,TR,Turkcell Iletisim Hizmetleri A.s.,4
+dataimpulse,TR,TurkNet Iletisim Hizmetleri A.S.,2
+dataimpulse,TR,Netlen Internet Hizmetleri Ltd. Sti.,2
+dataimpulse,TR,Turk Telekom,2
+dataimpulse,TR,Lifecell Digital Ltd,1
+dataimpulse,TR,Andromeda Tv Digital Platform Isletmeciligi A.s.,1
+dataimpulse,TR,Veganet Teknolojileri ve Hizmetleri LTD STI,1
+dataimpulse,TR,Millenicom Telekomunikasyon Hizmetleri Anonim Sirketi,1
+dataimpulse,TR,Fibim Fibernet Gsm Sanayi Ve Ticaret Anonim Sirketi,1
+dataimpulse,TR,GOKNET iletisim A.S.,1
+dataimpulse,TR,TT Mobil Iletisim Hizmetleri A.S,1
+dataimpulse,UA,Kyivstar PJSC,51
+dataimpulse,UA,PrJSC VF UKRAINE,18
+dataimpulse,UA,Limited Liability Company lifecell,13
+dataimpulse,UA,JSC Ukrtelecom,1
+dataimpulse,US,"T-Mobile USA, Inc.",44
+dataimpulse,US,"AT&T Enterprises, LLC",21
+dataimpulse,US,Verizon Business,18
+dataimpulse,VN,VNPT Corp,27
+dataimpulse,VN,FPT Telecom Company,24
+dataimpulse,VN,Viettel Group,17
+dataimpulse,VN,MOBIFONE Corporation,14
+dataimpulse,VN,Vietnamobile Telecommunications Joint Stock Company,1
+decodo,BR,TELEFONICA BRASIL S.A,32
+decodo,BR,Claro NXT Telecomunicacoes Ltda,26
+decodo,BR,V tal,13
+decodo,BR,UNIFIQUE TELECOMUNICACOES S/A,6
+decodo,BR,TIM S/A,4
+decodo,BR,BRISANET SERVICOS DE TELECOMUNICACOES S.A,2
+decodo,BR,Claro S/A,1
+decodo,DE,Deutsche Telekom AG,52
+decodo,DE,Vodafone GmbH,18
+decodo,DE,Telefonica Germany,14
+decodo,ES,Telefonica De Espana S.a.u.,18
+decodo,ES,Digi Spain Telecom S.A,16
+decodo,ES,Orange Espagne SA,14
+decodo,ES,Xtra Telecom S.A.,12
+decodo,ES,Vodafone Spain,10
+decodo,ES,"Vodafone Ono, S.A.",6
+decodo,ES,"Avatel Telecom, SA",5
+decodo,ES,Euskaltel S.A.,2
+decodo,ES,Spotting Brands Technologies S.L.,1
+decodo,FR,Free SAS,25
+decodo,FR,Orange,23
+decodo,FR,Societe Francaise Du Radiotelephone - SFR SA,20
+decodo,FR,Bouygues Telecom SA,16
+decodo,GB,British Telecommunications Limited,30
+decodo,GB,Virgin Media,22
+decodo,GB,Sky UK Limited,14
+decodo,GB,Three,7
+decodo,GB,Vodafone Limited,6
+decodo,GB,TalkTalk,3
+decodo,GB,O2 UK,1
+decodo,ID,PT Telekomunikasi Indonesia,37
+decodo,ID,PT. Telekomunikasi Selular,30
+decodo,ID,INDOSAT Internet Network Provider,10
+decodo,ID,PT XL Axiata Tbk,6
+decodo,IN,Reliance Jio Infocomm Limited,37
+decodo,IN,"Bharti Airtel Ltd., Telemedia Services",33
+decodo,IN,National Internet Backbone,8
+decodo,IN,Bharti Airtel Ltd. AS for GPRS Service,5
+decodo,PL,Play,33
+decodo,PL,Orange Polska Spolka Akcyjna,26
+decodo,PL,T-Mobile Polska S.A.,14
+decodo,PL,Netia SA,6
+decodo,PL,Polkomtel Sp. z o.o.,4
+decodo,TR,TurkNet Iletisim Hizmetleri A.S.,27
+decodo,TR,TT Mobil Iletisim Hizmetleri A.S,19
+decodo,TR,Turkcell Iletisim Hizmetleri A.s.,18
+decodo,TR,Vodafone Telekomunikasyon A.S.,17
+decodo,TR,Vodafone Net Iletisim Hizmetler AS,1
+decodo,TR,Netonline Bilisim Sirketi LTD,1
+decodo,UA,Kyivstar PJSC,67
+decodo,UA,PrJSC VF UKRAINE,9
+decodo,UA,Limited Liability Company lifecell,5
+decodo,UA,RPC HomeNet Ltd.,1
+decodo,UA,Osipenko Alexander Nikolaevich,1
+decodo,US,"AT&T Enterprises, LLC",39
+decodo,US,Verizon Business,22
+decodo,US,"T-Mobile USA, Inc.",11
+decodo,US,"Frontier Communications of America, Inc.",10
+decodo,US,"Charter Communications, Inc",1
+decodo,VN,VNPT Corp,40
+decodo,VN,Viettel Group,29
+decodo,VN,VIETNAM POSTS AND TELECOMMUNICATIONS GROUP,11
+decodo,VN,Viettel Corporation,2
+decodo,VN,MOBIFONE Corporation,1
+evomi,BR,TELEFONICA BRASIL S.A,27
+evomi,BR,Claro S/A,23
+evomi,BR,CLARO S.A.,20
+evomi,BR,TIM S/A,10
+evomi,BR,BRISANET SERVICOS DE TELECOMUNICACOES S.A,2
+evomi,BR,ALGAR TELECOM S/A,1
+evomi,BR,VERO S.A,1
+evomi,DE,Telefonica Germany,53
+evomi,DE,Vodafone GmbH,17
+evomi,DE,Deutsche Telekom AG,13
+evomi,DE,Lebara Ltd,1
+evomi,ES,Digi Spain Telecom S.A,29
+evomi,ES,Xtra Telecom S.A.,18
+evomi,ES,Orange Espagne SA,16
+evomi,ES,Procono S.A.,9
+evomi,ES,"Avatel Telecom, SA",6
+evomi,ES,Telefonica De Espana S.a.u.,3
+evomi,ES,Vodafone Spain,2
+evomi,ES,"Fibra A La Porta, S.l.",1
+evomi,FR,Free Mobile SAS,39
+evomi,FR,Societe Francaise Du Radiotelephone - SFR SA,15
+evomi,FR,Bouygues Telecom SA,14
+evomi,FR,Orange,9
+evomi,FR,Lycatel Distribution Uk Limited,5
+evomi,FR,Outremer Telecom SAS,1
+evomi,FR,Lebara Ltd,1
+evomi,GB,Vodafone Limited,24
+evomi,GB,British Telecommunications Limited,21
+evomi,GB,Three,20
+evomi,GB,O2 UK,18
+evomi,ID,INDOSAT Internet Network Provider,54
+evomi,ID,PT XL Axiata,27
+evomi,ID,PT Telekomunikasi Indonesia,1
+evomi,ID,PT WIRELESS INDONESIA ( WIN ),1
+evomi,IN,Reliance Jio Infocomm Limited,48
+evomi,IN,Bharti Airtel Ltd. AS for GPRS Service,26
+evomi,IN,Vodafone Idea Ltd,7
+evomi,IN,BHARTI Airtel Ltd.,2
+evomi,PL,Play,31
+evomi,PL,T-Mobile Polska S.A.,19
+evomi,PL,Polkomtel Sp. z o.o.,18
+evomi,PL,Orange Polska Spolka Akcyjna,15
+evomi,TR,TT Mobil Iletisim Hizmetleri A.S,34
+evomi,TR,Turkcell Iletisim Hizmetleri A.s.,25
+evomi,TR,Vodafone Telekomunikasyon A.S.,24
+evomi,UA,PrJSC VF UKRAINE,29
+evomi,UA,Kyivstar PJSC,28
+evomi,UA,Limited Liability Company lifecell,26
+evomi,US,"T-Mobile USA, Inc.",56
+evomi,US,"AT&T Enterprises, LLC",13
+evomi,US,Verizon Business,13
+evomi,US,"Comcast Cable Communications, LLC",1
+evomi,VN,MOBIFONE Corporation,38
+evomi,VN,VNPT Corp,25
+evomi,VN,Viettel Group,17
+evomi,VN,FPT Telecom Company,2
+evomi,VN,Vietnamobile Telecommunications Joint Stock Company,1
+floppydata,BR,Claro S/A,29
+floppydata,BR,TELEFONICA BRASIL S.A,28
+floppydata,BR,TIM S/A,17
+floppydata,BR,BRISANET SERVICOS DE TELECOMUNICACOES S.A,2
+floppydata,BR,Claro NXT Telecomunicacoes Ltda,2
+floppydata,BR,CLARO S.A.,2
+floppydata,BR,V tal,1
+floppydata,BR,A C Gomes-ME,1
+floppydata,BR,ALGAR TELECOM S/A,1
+floppydata,BR,DB3 SERVICOS DE TELECOMUNICACOES S.A,1
+floppydata,DE,Telefonica Germany,44
+floppydata,DE,Deutsche Telekom AG,19
+floppydata,DE,Vodafone GmbH,18
+floppydata,DE,inexio Informationstechnologie und Telekommunikation Gmbh,1
+floppydata,DE,Dr. Michaelis Consult GmbH,1
+floppydata,DE,Lycatel Distribution Uk Limited,1
+floppydata,ES,Xtra Telecom S.A.,27
+floppydata,ES,Orange Espagne SA,19
+floppydata,ES,Digi Spain Telecom S.A,17
+floppydata,ES,Telefonica De Espana S.a.u.,14
+floppydata,ES,Vodafone Spain,6
+floppydata,ES,Networksland SL,1
+floppydata,FR,Orange,26
+floppydata,FR,Societe Francaise Du Radiotelephone - SFR SA,22
+floppydata,FR,Free Mobile SAS,19
+floppydata,FR,Bouygues Telecom SA,17
+floppydata,GB,Vodafone Limited,22
+floppydata,GB,Three,20
+floppydata,GB,O2 UK,19
+floppydata,GB,British Telecommunications Limited,16
+floppydata,GB,Sky UK Limited,3
+floppydata,GB,Virgin Media,2
+floppydata,GB,Sparks Communications Ltd,1
+floppydata,ID,INDOSAT Internet Network Provider,32
+floppydata,ID,PT XL Axiata,29
+floppydata,ID,"PT. Smartfren Telecom, Tbk",6
+floppydata,ID,PT WIRELESS INDONESIA ( WIN ),6
+floppydata,ID,PT Telekomunikasi Indonesia,4
+floppydata,ID,PT. Telekomunikasi Selular,3
+floppydata,ID,PT Mora Telematika Indonesia,1
+floppydata,ID,PT. Eka Mas Republik,1
+floppydata,ID,PT XL Axiata Tbk,1
+floppydata,IN,Bharti Airtel Ltd. AS for GPRS Service,36
+floppydata,IN,Reliance Jio Infocomm Limited,31
+floppydata,IN,Vodafone Idea Ltd,11
+floppydata,IN,National Internet Backbone,4
+floppydata,IN,"Bharti Airtel Ltd., Telemedia Services",1
+floppydata,PL,Polkomtel Sp. z o.o.,23
+floppydata,PL,Orange Polska Spolka Akcyjna,20
+floppydata,PL,Play,19
+floppydata,PL,T-Mobile Polska S.A.,18
+floppydata,PL,Vectra S.A.,1
+floppydata,PL,Netia SA,1
+floppydata,PL,Wadowicenet Sp Z O O,1
+floppydata,TR,Vodafone Telekomunikasyon A.S.,27
+floppydata,TR,Turkcell Iletisim Hizmetleri A.s.,25
+floppydata,TR,TT Mobil Iletisim Hizmetleri A.S,23
+floppydata,TR,Superonline Iletisim Hizmetleri A.S.,3
+floppydata,TR,Turk Telekom,3
+floppydata,TR,Turksat Uydu Haberlesme Kablo TV ve Isletme A.S.,1
+floppydata,TR,TurkNet Iletisim Hizmetleri A.S.,1
+floppydata,UA,Kyivstar PJSC,40
+floppydata,UA,PrJSC VF UKRAINE,20
+floppydata,UA,Limited Liability Company lifecell,14
+floppydata,UA,TV Company Black Sea Ltd,1
+floppydata,UA,Askon Isp LLC,1
+floppydata,UA,Velton Isp LLC,1
+floppydata,UA,"Intel-Servis, LLC",1
+floppydata,UA,?,1
+floppydata,UA,TV Optimum Ltd.,1
+floppydata,UA,Limited Liability Company KYIVSKI TELEKOMUNIKATSIYNI MEREZHI,1
+floppydata,UA,I.NET ltd,1
+floppydata,UA,Telecomunikatsiina Companiya Ltd,1
+floppydata,US,"T-Mobile USA, Inc.",33
+floppydata,US,Verizon Business,26
+floppydata,US,"AT&T Enterprises, LLC",18
+floppydata,US,"Charter Communications, Inc",1
+floppydata,US,Boost Mobile,1
+floppydata,US,The City of Wadsworth,1
+floppydata,US,"Comcast Cable Communications, LLC",1
+floppydata,US,Charter Communications Inc,1
+floppydata,US,Cox Communications Inc.,1
+floppydata,VN,Viettel Group,51
+floppydata,VN,VNPT Corp,18
+floppydata,VN,MOBIFONE Corporation,11
+floppydata,VN,FPT Telecom Company,3
+iproyal,BR,Claro NXT Telecomunicacoes Ltda,32
+iproyal,BR,TELEFONICA BRASIL S.A,29
+iproyal,BR,V tal,12
+iproyal,BR,ALGAR TELECOM S/A,4
+iproyal,BR,BRISANET SERVICOS DE TELECOMUNICACOES S.A,4
+iproyal,BR,UNIFIQUE TELECOMUNICACOES S/A,2
+iproyal,BR,TIM S/A,1
+iproyal,DE,Deutsche Telekom AG,40
+iproyal,DE,Vodafone GmbH,25
+iproyal,DE,Telefonica Germany,19
+iproyal,ES,Telefonica De Espana S.a.u.,16
+iproyal,ES,Digi Spain Telecom S.A,16
+iproyal,ES,Orange Espagne SA,12
+iproyal,ES,Xtra Telecom S.A.,11
+iproyal,ES,Vodafone Spain,9
+iproyal,ES,"Avatel Telecom, SA",8
+iproyal,ES,"Vodafone Ono, S.A.",7
+iproyal,ES,Euskaltel S.A.,2
+iproyal,ES,Cable Aireworld S.A.U.,2
+iproyal,ES,ISR comunicaciones,1
+iproyal,FR,Orange,24
+iproyal,FR,Free SAS,22
+iproyal,FR,Bouygues Telecom SA,21
+iproyal,FR,Societe Francaise Du Radiotelephone - SFR SA,17
+iproyal,GB,Sky UK Limited,25
+iproyal,GB,British Telecommunications Limited,20
+iproyal,GB,Virgin Media,20
+iproyal,GB,Vodafone Limited,11
+iproyal,GB,TalkTalk,3
+iproyal,GB,Three,3
+iproyal,GB,O2 UK,1
+iproyal,ID,PT Telekomunikasi Indonesia,48
+iproyal,ID,PT. Telekomunikasi Selular,20
+iproyal,ID,INDOSAT Internet Network Provider,9
+iproyal,ID,PT XL Axiata Tbk,4
+iproyal,ID,PT XL Axiata,1
+iproyal,ID,PT Atlantic Aksa Group,1
+iproyal,IN,Reliance Jio Infocomm Limited,33
+iproyal,IN,"Bharti Airtel Ltd., Telemedia Services",29
+iproyal,IN,Bharti Airtel Ltd. AS for GPRS Service,12
+iproyal,IN,Vodafone Idea Ltd,5
+iproyal,IN,National Internet Backbone,3
+iproyal,IN,BHARTI Airtel Ltd.,1
+iproyal,PL,Play,30
+iproyal,PL,Orange Polska Spolka Akcyjna,30
+iproyal,PL,Netia SA,8
+iproyal,PL,Polkomtel Sp. z o.o.,8
+iproyal,PL,T-Mobile Polska S.A.,7
+iproyal,TR,TurkNet Iletisim Hizmetleri A.S.,40
+iproyal,TR,Turkcell Iletisim Hizmetleri A.s.,24
+iproyal,TR,TT Mobil Iletisim Hizmetleri A.S,12
+iproyal,TR,Vodafone Telekomunikasyon A.S.,6
+iproyal,TR,Vodafone Net Iletisim Hizmetler AS,1
+iproyal,UA,Kyivstar PJSC,44
+iproyal,UA,JSC Ukrtelecom,20
+iproyal,UA,PrJSC VF UKRAINE,11
+iproyal,UA,?,6
+iproyal,UA,Limited Liability Company lifecell,2
+iproyal,US,"AT&T Enterprises, LLC",29
+iproyal,US,"T-Mobile USA, Inc.",15
+iproyal,US,Verizon Business,10
+iproyal,US,Cox Communications Inc.,9
+iproyal,US,RCN,7
+iproyal,US,"Frontier Communications of America, Inc.",6
+iproyal,US,"Southern New England Telephone Company and SNET America, Inc.",4
+iproyal,US,WS Telecom Inc,3
+iproyal,VN,Viettel Group,44
+iproyal,VN,VNPT Corp,37
+iproyal,VN,Viettel Corporation,1
+iproyal,VN,VIETNAM POSTS AND TELECOMMUNICATIONS GROUP,1
+nodemaven,BR,TELEFONICA BRASIL S.A,39
+nodemaven,BR,TIM S/A,21
+nodemaven,BR,Claro S/A,14
+nodemaven,BR,CLARO S.A.,8
+nodemaven,BR,BRISANET SERVICOS DE TELECOMUNICACOES S.A,1
+nodemaven,BR,MOBILELINK PROVEDOR DE SERVICOS DE INTERNET LTDA,1
+nodemaven,DE,Telefonica Germany,43
+nodemaven,DE,Vodafone GmbH,23
+nodemaven,DE,Deutsche Telekom AG,18
+nodemaven,ES,Orange Espagne SA,22
+nodemaven,ES,Xtra Telecom S.A.,17
+nodemaven,ES,Digi Spain Telecom S.A,15
+nodemaven,ES,Procono S.A.,10
+nodemaven,ES,Telefonica De Espana S.a.u.,6
+nodemaven,ES,"Avatel Telecom, SA",6
+nodemaven,ES,Aire Networks Del Mediterraneo Sl Unipersonal,5
+nodemaven,ES,Vodafone Spain,3
+nodemaven,FR,Free Mobile SAS,41
+nodemaven,FR,Orange,14
+nodemaven,FR,Bouygues Telecom SA,13
+nodemaven,FR,Societe Francaise Du Radiotelephone - SFR SA,12
+nodemaven,FR,Lycatel Distribution Uk Limited,4
+nodemaven,GB,British Telecommunications Limited,26
+nodemaven,GB,O2 UK,21
+nodemaven,GB,Vodafone Limited,18
+nodemaven,GB,Three,16
+nodemaven,GB,Packet Star Networks Limited,1
+nodemaven,GB,Sky UK Limited,1
+nodemaven,ID,PT. Telekomunikasi Selular,39
+nodemaven,ID,INDOSAT Internet Network Provider,21
+nodemaven,ID,PT XL Axiata,18
+nodemaven,ID,PT WIRELESS INDONESIA ( WIN ),3
+nodemaven,ID,Orion Cyber Internet,1
+nodemaven,ID,"PT. Smartfren Telecom, Tbk",1
+nodemaven,IN,Reliance Jio Infocomm Limited,47
+nodemaven,IN,Bharti Airtel Ltd. AS for GPRS Service,28
+nodemaven,IN,Vodafone Idea Ltd,4
+nodemaven,IN,BHARTI Airtel Ltd.,3
+nodemaven,IN,Tata Teleservices ISP AS,1
+nodemaven,PL,Play,35
+nodemaven,PL,T-Mobile Polska S.A.,23
+nodemaven,PL,Orange Polska Spolka Akcyjna,15
+nodemaven,PL,Polkomtel Sp. z o.o.,10
+nodemaven,TR,Turkcell Iletisim Hizmetleri A.s.,34
+nodemaven,TR,TT Mobil Iletisim Hizmetleri A.S,27
+nodemaven,TR,Vodafone Telekomunikasyon A.S.,21
+nodemaven,TR,Lifecell Digital Ltd,1
+nodemaven,UA,PrJSC VF UKRAINE,39
+nodemaven,UA,Limited Liability Company lifecell,25
+nodemaven,UA,Kyivstar PJSC,18
+nodemaven,UA,K-telekom LLC,1
+nodemaven,US,"T-Mobile USA, Inc.",55
+nodemaven,US,Verizon Business,20
+nodemaven,US,"AT&T Enterprises, LLC",8
+nodemaven,VN,Viettel Group,35
+nodemaven,VN,VNPT Corp,27
+nodemaven,VN,MOBIFONE Corporation,18
+nodemaven,VN,FPT Telecom Company,2
+nodemaven,VN,Mobifone Global JSC,1
+oxylabs,BR,TELEFONICA BRASIL S.A,36
+oxylabs,BR,Claro NXT Telecomunicacoes Ltda,29
+oxylabs,BR,V tal,8
+oxylabs,BR,BRISANET SERVICOS DE TELECOMUNICACOES S.A,5
+oxylabs,BR,UNIFIQUE TELECOMUNICACOES S/A,4
+oxylabs,BR,TIM S/A,1
+oxylabs,BR,ALGAR TELECOM S/A,1
+oxylabs,DE,Deutsche Telekom AG,51
+oxylabs,DE,Vodafone GmbH,19
+oxylabs,DE,Telefonica Germany,14
+oxylabs,ES,Digi Spain Telecom S.A,18
+oxylabs,ES,Orange Espagne SA,18
+oxylabs,ES,Telefonica De Espana S.a.u.,14
+oxylabs,ES,Vodafone Spain,12
+oxylabs,ES,Xtra Telecom S.A.,11
+oxylabs,ES,"Avatel Telecom, SA",5
+oxylabs,ES,"Vodafone Ono, S.A.",4
+oxylabs,ES,Procono S.A.,1
+oxylabs,ES,"R Cable y Telecable Telecomunicaciones, S.A.U.",1
+oxylabs,FR,Orange,28
+oxylabs,FR,Free SAS,26
+oxylabs,FR,Bouygues Telecom SA,15
+oxylabs,FR,Societe Francaise Du Radiotelephone - SFR SA,9
+oxylabs,FR,Free Mobile SAS,5
+oxylabs,FR,Lycatel Distribution Uk Limited,1
+oxylabs,GB,British Telecommunications Limited,31
+oxylabs,GB,Virgin Media,25
+oxylabs,GB,Sky UK Limited,13
+oxylabs,GB,Vodafone Limited,6
+oxylabs,GB,TalkTalk,5
+oxylabs,GB,Three,3
+oxylabs,ID,PT Telekomunikasi Indonesia,38
+oxylabs,ID,PT. Telekomunikasi Selular,28
+oxylabs,ID,PT XL Axiata Tbk,8
+oxylabs,ID,INDOSAT Internet Network Provider,6
+oxylabs,ID,PT XL Axiata,2
+oxylabs,ID,PT iForte Global Internet,1
+oxylabs,IN,Reliance Jio Infocomm Limited,35
+oxylabs,IN,"Bharti Airtel Ltd., Telemedia Services",29
+oxylabs,IN,National Internet Backbone,9
+oxylabs,IN,Bharti Airtel Ltd. AS for GPRS Service,8
+oxylabs,IN,Vodafone Idea Ltd,2
+oxylabs,PL,Play,29
+oxylabs,PL,Orange Polska Spolka Akcyjna,25
+oxylabs,PL,T-Mobile Polska S.A.,19
+oxylabs,PL,Polkomtel Sp. z o.o.,6
+oxylabs,PL,Netia SA,4
+oxylabs,TR,TurkNet Iletisim Hizmetleri A.S.,31
+oxylabs,TR,TT Mobil Iletisim Hizmetleri A.S,21
+oxylabs,TR,Vodafone Telekomunikasyon A.S.,17
+oxylabs,TR,Turkcell Iletisim Hizmetleri A.s.,12
+oxylabs,TR,Lifecell Digital Ltd,1
+oxylabs,TR,Netonline Bilisim Sirketi LTD,1
+oxylabs,UA,Kyivstar PJSC,64
+oxylabs,UA,PrJSC VF UKRAINE,11
+oxylabs,UA,Limited Liability Company lifecell,5
+oxylabs,UA,PP TRCCity TV center,1
+oxylabs,UA,Melbikomas UAB,1
+oxylabs,UA,Oleksandr Yaremenko,1
+oxylabs,US,"AT&T Enterprises, LLC",34
+oxylabs,US,Verizon Business,28
+oxylabs,US,"T-Mobile USA, Inc.",13
+oxylabs,US,"Frontier Communications of America, Inc.",8
+oxylabs,VN,VNPT Corp,45
+oxylabs,VN,Viettel Group,24
+oxylabs,VN,VIETNAM POSTS AND TELECOMMUNICATIONS GROUP,10
+oxylabs,VN,MOBIFONE Corporation,4
+proxyempire,BR,TELEFONICA BRASIL S.A,34
+proxyempire,BR,Claro S/A,17
+proxyempire,BR,TIM S/A,17
+proxyempire,BR,CLARO S.A.,9
+proxyempire,BR,DB3 SERVICOS DE TELECOMUNICACOES S.A,6
+proxyempire,BR,BRISANET SERVICOS DE TELECOMUNICACOES S.A,1
+proxyempire,DE,Telefonica Germany,30
+proxyempire,DE,Vodafone GmbH,28
+proxyempire,DE,Deutsche Telekom AG,26
+proxyempire,ES,Digi Spain Telecom S.A,18
+proxyempire,ES,Orange Espagne SA,17
+proxyempire,ES,Telefonica De Espana S.a.u.,15
+proxyempire,ES,"Avatel Telecom, SA",13
+proxyempire,ES,Xtra Telecom S.A.,10
+proxyempire,ES,Procono S.A.,6
+proxyempire,ES,Vodafone Spain,4
+proxyempire,ES,Aire Networks Del Mediterraneo Sl Unipersonal,1
+proxyempire,FR,Free Mobile SAS,27
+proxyempire,FR,Bouygues Telecom SA,21
+proxyempire,FR,Societe Francaise Du Radiotelephone - SFR SA,20
+proxyempire,FR,Orange,14
+proxyempire,FR,Lycatel Distribution Uk Limited,1
+proxyempire,FR,Free SAS,1
+proxyempire,GB,Vodafone Limited,30
+proxyempire,GB,Three,22
+proxyempire,GB,British Telecommunications Limited,18
+proxyempire,GB,O2 UK,13
+proxyempire,ID,PT. Telekomunikasi Selular,32
+proxyempire,ID,INDOSAT Internet Network Provider,28
+proxyempire,ID,PT XL Axiata,12
+proxyempire,ID,PT Telekomunikasi Indonesia,8
+proxyempire,ID,PT WIRELESS INDONESIA ( WIN ),3
+proxyempire,IN,Reliance Jio Infocomm Limited,43
+proxyempire,IN,Bharti Airtel Ltd. AS for GPRS Service,22
+proxyempire,IN,Vodafone Idea Ltd,14
+proxyempire,IN,National Internet Backbone,3
+proxyempire,IN,"Bharti Airtel Ltd., Telemedia Services",1
+proxyempire,PL,T-Mobile Polska S.A.,30
+proxyempire,PL,Orange Polska Spolka Akcyjna,21
+proxyempire,PL,Play,18
+proxyempire,PL,Polkomtel Sp. z o.o.,14
+proxyempire,TR,TT Mobil Iletisim Hizmetleri A.S,32
+proxyempire,TR,Turkcell Iletisim Hizmetleri A.s.,26
+proxyempire,TR,Vodafone Telekomunikasyon A.S.,25
+proxyempire,UA,PrJSC VF UKRAINE,30
+proxyempire,UA,Kyivstar PJSC,28
+proxyempire,UA,Limited Liability Company lifecell,22
+proxyempire,UA,Ukrainian Telecommunication Group LLC,1
+proxyempire,UA,Advaix Telecom LLC,1
+proxyempire,UA,velia.net Internetdienste GmbH,1
+proxyempire,US,"T-Mobile USA, Inc.",51
+proxyempire,US,Verizon Business,25
+proxyempire,US,"AT&T Enterprises, LLC",7
+proxyempire,VN,Viettel Group,26
+proxyempire,VN,VNPT Corp,26
+proxyempire,VN,MOBIFONE Corporation,24
+proxyempire,VN,FPT Telecom Company,4
+proxyempire,VN,Vietnamobile Telecommunications Joint Stock Company,3
+resiprox,BR,TELEFONICA BRASIL S.A,30
+resiprox,BR,Claro S/A,23
+resiprox,BR,TIM S/A,21
+resiprox,BR,DB3 SERVICOS DE TELECOMUNICACOES S.A,10
+resiprox,DE,Deutsche Telekom AG,33
+resiprox,DE,Telefonica Germany,30
+resiprox,DE,Vodafone GmbH,21
+resiprox,ES,Orange Espagne SA,16
+resiprox,ES,Xtra Telecom S.A.,15
+resiprox,ES,Vodafone Spain,14
+resiprox,ES,Telefonica De Espana S.a.u.,14
+resiprox,ES,Digi Spain Telecom S.A,13
+resiprox,ES,"Avatel Telecom, SA",10
+resiprox,ES,Procono S.A.,2
+resiprox,FR,Bouygues Telecom SA,27
+resiprox,FR,Societe Francaise Du Radiotelephone - SFR SA,23
+resiprox,FR,Orange,19
+resiprox,FR,Free Mobile SAS,15
+resiprox,GB,Three,29
+resiprox,GB,Vodafone Limited,28
+resiprox,GB,O2 UK,25
+resiprox,GB,Virgin Media,1
+resiprox,ID,PT XL Axiata,22
+resiprox,ID,PT. Telekomunikasi Selular,21
+resiprox,ID,PT Telekomunikasi Indonesia,20
+resiprox,ID,INDOSAT Internet Network Provider,18
+resiprox,ID,"PT. Smartfren Telecom, Tbk",2
+resiprox,IN,Reliance Jio Infocomm Limited,30
+resiprox,IN,National Internet Backbone,29
+resiprox,IN,Vodafone Idea Ltd,10
+resiprox,IN,Bharti Airtel Ltd. AS for GPRS Service,9
+resiprox,IN,BHARTI Airtel Ltd.,2
+resiprox,IN,Threesa Infoway Pvt.Ltd.,1
+resiprox,IN,Tata Teleservices ISP AS,1
+resiprox,IN,Gazon Communications India Limited,1
+resiprox,PL,T-Mobile Polska S.A.,32
+resiprox,PL,Orange Polska Spolka Akcyjna,28
+resiprox,PL,Polkomtel Sp. z o.o.,13
+resiprox,PL,Play,10
+resiprox,TR,Turkcell Iletisim Hizmetleri A.s.,30
+resiprox,TR,TT Mobil Iletisim Hizmetleri A.S,27
+resiprox,TR,Vodafone Telekomunikasyon A.S.,25
+resiprox,TR,Andromeda Tv Digital Platform Isletmeciligi A.s.,1
+resiprox,UA,Kyivstar PJSC,39
+resiprox,UA,PrJSC VF UKRAINE,28
+resiprox,UA,Limited Liability Company lifecell,13
+resiprox,UA,"gigatrans Ukraine, LLC",1
+resiprox,UA,Digi Romania S.A.,1
+resiprox,UA,LLC Radiotechichna Laboratoriya,1
+resiprox,US,"T-Mobile USA, Inc.",61
+resiprox,US,"AT&T Enterprises, LLC",14
+resiprox,US,Verizon Business,8
+resiprox,VN,VNPT Corp,29
+resiprox,VN,Viettel Group,28
+resiprox,VN,MOBIFONE Corporation,21
+resiprox,VN,Vietnamobile Telecommunications Joint Stock Company,4
+resiprox,VN,FPT Telecom Company,1
+soax,BR,TELEFONICA BRASIL S.A,83
+soax,BR,Claro S/A,1
+soax,DE,Telefonica Germany,37
+soax,DE,Vodafone GmbH,22
+soax,DE,Deutsche Telekom AG,18
+soax,DE,Lycatel Distribution Uk Limited,5
+soax,DE,Lebara Ltd,1
+soax,DE,Senko Digital LLC,1
+soax,ES,Digi Spain Telecom S.A,24
+soax,ES,Xtra Telecom S.A.,20
+soax,ES,Telefonica De Espana S.a.u.,17
+soax,ES,Orange Espagne SA,16
+soax,ES,"Avatel Telecom, SA",3
+soax,ES,Vodafone Spain,3
+soax,ES,Procono S.A.,1
+soax,FR,Free Mobile SAS,34
+soax,FR,Societe Francaise Du Radiotelephone - SFR SA,24
+soax,FR,Orange,12
+soax,FR,Bouygues Telecom SA,10
+soax,FR,Lycatel Distribution Uk Limited,3
+soax,FR,Gabriele Sabatino,1
+soax,GB,Three,29
+soax,GB,British Telecommunications Limited,29
+soax,GB,Vodafone Limited,17
+soax,GB,O2 UK,7
+soax,GB,Tube-Hosting,1
+soax,ID,INDOSAT Internet Network Provider,33
+soax,ID,PT. Telekomunikasi Selular,26
+soax,ID,PT XL Axiata,18
+soax,ID,PT WIRELESS INDONESIA ( WIN ),6
+soax,IN,Reliance Jio Infocomm Limited,47
+soax,IN,Bharti Airtel Ltd. AS for GPRS Service,26
+soax,IN,Vodafone Idea Ltd,7
+soax,IN,BHARTI Airtel Ltd.,2
+soax,IN,National Internet Backbone,1
+soax,PL,Play,28
+soax,PL,Orange Polska Spolka Akcyjna,27
+soax,PL,T-Mobile Polska S.A.,24
+soax,PL,Polkomtel Sp. z o.o.,4
+soax,TR,TT Mobil Iletisim Hizmetleri A.S,33
+soax,TR,Vodafone Telekomunikasyon A.S.,30
+soax,TR,Turkcell Iletisim Hizmetleri A.s.,20
+soax,UA,Kyivstar PJSC,34
+soax,UA,PrJSC VF UKRAINE,24
+soax,UA,Limited Liability Company lifecell,22
+soax,UA,K-telekom LLC,3
+soax,US,"T-Mobile USA, Inc.",44
+soax,US,Verizon Business,20
+soax,US,"AT&T Enterprises, LLC",19
+soax,VN,Viettel Group,26
+soax,VN,VNPT Corp,24
+soax,VN,MOBIFONE Corporation,23
+soax,VN,FPT Telecom Company,7
+soax,VN,Vietnamobile Telecommunications Joint Stock Company,3

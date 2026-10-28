@@ -1,0 +1,380 @@
+Provider,Country,Class,IPs
+byteful,BR,MOB only,624
+byteful,BR,MOB with other,207
+byteful,BR,not MOB,3
+byteful,DE,MOB only,189
+byteful,DE,MOB with other,641
+byteful,DE,not MOB,4
+byteful,ES,MOB only,165
+byteful,ES,MOB with other,667
+byteful,ES,not MOB,2
+byteful,FR,MOB only,324
+byteful,FR,MOB with other,507
+byteful,FR,not MOB,3
+byteful,GB,MOB only,251
+byteful,GB,MOB with other,576
+byteful,GB,not MOB,6
+byteful,ID,MOB only,491
+byteful,ID,MOB with other,339
+byteful,ID,not MOB,3
+byteful,IN,MOB only,581
+byteful,IN,MOB with other,241
+byteful,IN,not MOB,11
+byteful,PL,MOB only,441
+byteful,PL,MOB with other,387
+byteful,PL,not MOB,5
+byteful,TR,MOB only,502
+byteful,TR,MOB with other,329
+byteful,TR,not MOB,2
+byteful,UA,MOB only,312
+byteful,UA,MOB with other,520
+byteful,UA,not MOB,1
+byteful,US,MOB only,625
+byteful,US,MOB with other,204
+byteful,US,not MOB,4
+byteful,VN,MOB only,187
+byteful,VN,MOB with other,556
+byteful,VN,not MOB,90
+dataimpulse,BR,MOB only,281
+dataimpulse,BR,MOB with other,94
+dataimpulse,BR,not MOB,115
+dataimpulse,DE,MOB only,295
+dataimpulse,DE,MOB with other,619
+dataimpulse,DE,not MOB,8
+dataimpulse,ES,MOB only,210
+dataimpulse,ES,MOB with other,690
+dataimpulse,ES,not MOB,22
+dataimpulse,FR,MOB only,383
+dataimpulse,FR,MOB with other,537
+dataimpulse,FR,not MOB,2
+dataimpulse,GB,MOB only,186
+dataimpulse,GB,MOB with other,404
+dataimpulse,GB,not MOB,332
+dataimpulse,ID,MOB only,460
+dataimpulse,ID,MOB with other,450
+dataimpulse,ID,not MOB,12
+dataimpulse,IN,MOB only,653
+dataimpulse,IN,MOB with other,267
+dataimpulse,IN,not MOB,2
+dataimpulse,PL,MOB only,457
+dataimpulse,PL,MOB with other,462
+dataimpulse,PL,not MOB,3
+dataimpulse,TR,MOB only,64
+dataimpulse,TR,MOB with other,7
+dataimpulse,TR,not MOB,221
+dataimpulse,UA,MOB only,232
+dataimpulse,UA,MOB with other,669
+dataimpulse,UA,not MOB,21
+dataimpulse,US,MOB only,616
+dataimpulse,US,MOB with other,304
+dataimpulse,US,not MOB,1
+dataimpulse,VN,MOB only,174
+dataimpulse,VN,MOB with other,546
+dataimpulse,VN,not MOB,201
+decodo,BR,MOB only,563
+decodo,BR,MOB with other,271
+decodo,DE,MOB only,211
+decodo,DE,MOB with other,583
+decodo,DE,not MOB,40
+decodo,ES,MOB only,153
+decodo,ES,MOB with other,680
+decodo,ES,not MOB,1
+decodo,FR,MOB only,21
+decodo,FR,MOB with other,730
+decodo,FR,not MOB,83
+decodo,GB,MOB only,41
+decodo,GB,MOB with other,739
+decodo,GB,not MOB,53
+decodo,ID,MOB only,395
+decodo,ID,MOB with other,430
+decodo,ID,not MOB,8
+decodo,IN,MOB only,433
+decodo,IN,MOB with other,391
+decodo,IN,not MOB,9
+decodo,PL,MOB only,214
+decodo,PL,MOB with other,619
+decodo,TR,MOB only,326
+decodo,TR,MOB with other,506
+decodo,TR,not MOB,1
+decodo,UA,MOB only,75
+decodo,UA,MOB with other,754
+decodo,UA,not MOB,4
+decodo,US,MOB only,175
+decodo,US,MOB with other,480
+decodo,US,not MOB,178
+decodo,VN,MOB only,15
+decodo,VN,MOB with other,815
+decodo,VN,not MOB,3
+evomi,BR,MOB only,674
+evomi,BR,MOB with other,157
+evomi,BR,not MOB,3
+evomi,DE,MOB only,195
+evomi,DE,MOB with other,634
+evomi,DE,not MOB,5
+evomi,ES,MOB only,149
+evomi,ES,MOB with other,680
+evomi,ES,not MOB,5
+evomi,FR,MOB only,377
+evomi,FR,MOB with other,457
+evomi,GB,MOB only,198
+evomi,GB,MOB with other,628
+evomi,GB,not MOB,7
+evomi,ID,MOB only,455
+evomi,ID,MOB with other,371
+evomi,ID,not MOB,7
+evomi,IN,MOB only,539
+evomi,IN,MOB with other,290
+evomi,IN,not MOB,4
+evomi,PL,MOB only,437
+evomi,PL,MOB with other,395
+evomi,PL,not MOB,1
+evomi,TR,MOB only,505
+evomi,TR,MOB with other,325
+evomi,TR,not MOB,3
+evomi,UA,MOB only,289
+evomi,UA,MOB with other,543
+evomi,UA,not MOB,1
+evomi,US,MOB only,551
+evomi,US,MOB with other,278
+evomi,US,not MOB,4
+evomi,VN,MOB only,337
+evomi,VN,MOB with other,462
+evomi,VN,not MOB,34
+floppydata,BR,MOB only,599
+floppydata,BR,MOB with other,189
+floppydata,BR,not MOB,46
+floppydata,DE,MOB only,215
+floppydata,DE,MOB with other,566
+floppydata,DE,not MOB,53
+floppydata,ES,MOB only,158
+floppydata,ES,MOB with other,662
+floppydata,ES,not MOB,14
+floppydata,FR,MOB only,198
+floppydata,FR,MOB with other,621
+floppydata,FR,not MOB,15
+floppydata,GB,MOB only,165
+floppydata,GB,MOB with other,635
+floppydata,GB,not MOB,33
+floppydata,ID,MOB only,443
+floppydata,ID,MOB with other,352
+floppydata,ID,not MOB,38
+floppydata,IN,MOB only,500
+floppydata,IN,MOB with other,315
+floppydata,IN,not MOB,18
+floppydata,PL,MOB only,194
+floppydata,PL,MOB with other,605
+floppydata,PL,not MOB,34
+floppydata,TR,MOB only,516
+floppydata,TR,MOB with other,233
+floppydata,TR,not MOB,84
+floppydata,UA,MOB only,234
+floppydata,UA,MOB with other,535
+floppydata,UA,not MOB,64
+floppydata,US,MOB only,730
+floppydata,US,MOB with other,40
+floppydata,US,not MOB,63
+floppydata,VN,MOB only,163
+floppydata,VN,MOB with other,640
+floppydata,VN,not MOB,30
+iproyal,BR,MOB only,565
+iproyal,BR,MOB with other,268
+iproyal,BR,not MOB,1
+iproyal,DE,MOB only,274
+iproyal,DE,MOB with other,560
+iproyal,ES,MOB only,149
+iproyal,ES,MOB with other,685
+iproyal,FR,MOB only,7
+iproyal,FR,MOB with other,827
+iproyal,GB,MOB only,27
+iproyal,GB,MOB with other,805
+iproyal,GB,not MOB,1
+iproyal,ID,MOB only,361
+iproyal,ID,MOB with other,464
+iproyal,ID,not MOB,8
+iproyal,IN,MOB only,432
+iproyal,IN,MOB with other,400
+iproyal,IN,not MOB,1
+iproyal,PL,MOB only,210
+iproyal,PL,MOB with other,623
+iproyal,TR,MOB only,400
+iproyal,TR,MOB with other,432
+iproyal,TR,not MOB,1
+iproyal,UA,MOB only,73
+iproyal,UA,MOB with other,535
+iproyal,UA,not MOB,225
+iproyal,US,MOB only,221
+iproyal,US,MOB with other,600
+iproyal,US,not MOB,12
+iproyal,VN,MOB only,15
+iproyal,VN,MOB with other,818
+nodemaven,BR,MOB only,644
+nodemaven,BR,MOB with other,184
+nodemaven,BR,not MOB,6
+nodemaven,DE,MOB only,193
+nodemaven,DE,MOB with other,639
+nodemaven,DE,not MOB,2
+nodemaven,ES,MOB only,209
+nodemaven,ES,MOB with other,625
+nodemaven,FR,MOB only,327
+nodemaven,FR,MOB with other,505
+nodemaven,FR,not MOB,2
+nodemaven,GB,MOB only,225
+nodemaven,GB,MOB with other,593
+nodemaven,GB,not MOB,15
+nodemaven,ID,MOB only,559
+nodemaven,ID,MOB with other,269
+nodemaven,ID,not MOB,5
+nodemaven,IN,MOB only,526
+nodemaven,IN,MOB with other,302
+nodemaven,IN,not MOB,5
+nodemaven,PL,MOB only,430
+nodemaven,PL,MOB with other,401
+nodemaven,PL,not MOB,2
+nodemaven,TR,MOB only,506
+nodemaven,TR,MOB with other,326
+nodemaven,TR,not MOB,1
+nodemaven,UA,MOB only,331
+nodemaven,UA,MOB with other,502
+nodemaven,US,MOB only,616
+nodemaven,US,MOB with other,217
+nodemaven,VN,MOB only,203
+nodemaven,VN,MOB with other,588
+nodemaven,VN,not MOB,42
+oxylabs,BR,MOB only,584
+oxylabs,BR,MOB with other,250
+oxylabs,DE,MOB only,215
+oxylabs,DE,MOB with other,590
+oxylabs,DE,not MOB,29
+oxylabs,ES,MOB only,173
+oxylabs,ES,MOB with other,661
+oxylabs,FR,MOB only,22
+oxylabs,FR,MOB with other,742
+oxylabs,FR,not MOB,70
+oxylabs,GB,MOB only,32
+oxylabs,GB,MOB with other,756
+oxylabs,GB,not MOB,45
+oxylabs,ID,MOB only,400
+oxylabs,ID,MOB with other,422
+oxylabs,ID,not MOB,11
+oxylabs,IN,MOB only,413
+oxylabs,IN,MOB with other,415
+oxylabs,IN,not MOB,5
+oxylabs,PL,MOB only,201
+oxylabs,PL,MOB with other,632
+oxylabs,TR,MOB only,294
+oxylabs,TR,MOB with other,533
+oxylabs,TR,not MOB,6
+oxylabs,UA,MOB only,82
+oxylabs,UA,MOB with other,746
+oxylabs,UA,not MOB,5
+oxylabs,US,MOB only,165
+oxylabs,US,MOB with other,473
+oxylabs,US,not MOB,195
+oxylabs,VN,MOB only,26
+oxylabs,VN,MOB with other,807
+proxyempire,BR,MOB only,613
+proxyempire,BR,MOB with other,180
+proxyempire,BR,not MOB,41
+proxyempire,DE,MOB only,170
+proxyempire,DE,MOB with other,589
+proxyempire,DE,not MOB,75
+proxyempire,ES,MOB only,164
+proxyempire,ES,MOB with other,660
+proxyempire,ES,not MOB,10
+proxyempire,FR,MOB only,283
+proxyempire,FR,MOB with other,549
+proxyempire,FR,not MOB,2
+proxyempire,GB,MOB only,290
+proxyempire,GB,MOB with other,528
+proxyempire,GB,not MOB,15
+proxyempire,ID,MOB only,502
+proxyempire,ID,MOB with other,330
+proxyempire,ID,not MOB,1
+proxyempire,IN,MOB only,493
+proxyempire,IN,MOB with other,321
+proxyempire,IN,not MOB,19
+proxyempire,PL,MOB only,365
+proxyempire,PL,MOB with other,463
+proxyempire,PL,not MOB,5
+proxyempire,TR,MOB only,505
+proxyempire,TR,MOB with other,323
+proxyempire,TR,not MOB,5
+proxyempire,UA,MOB only,303
+proxyempire,UA,MOB with other,501
+proxyempire,UA,not MOB,29
+proxyempire,US,MOB only,672
+proxyempire,US,MOB with other,159
+proxyempire,US,not MOB,2
+proxyempire,VN,MOB only,208
+proxyempire,VN,MOB with other,583
+proxyempire,VN,not MOB,42
+resiprox,BR,MOB only,511
+resiprox,BR,MOB with other,235
+resiprox,BR,not MOB,88
+resiprox,DE,MOB only,80
+resiprox,DE,MOB with other,599
+resiprox,DE,not MOB,155
+resiprox,ES,MOB only,128
+resiprox,ES,MOB with other,684
+resiprox,ES,not MOB,22
+resiprox,FR,MOB only,181
+resiprox,FR,MOB with other,650
+resiprox,FR,not MOB,3
+resiprox,GB,MOB only,308
+resiprox,GB,MOB with other,524
+resiprox,GB,not MOB,1
+resiprox,ID,MOB only,481
+resiprox,ID,MOB with other,349
+resiprox,ID,not MOB,3
+resiprox,IN,MOB only,420
+resiprox,IN,MOB with other,328
+resiprox,IN,not MOB,85
+resiprox,PL,MOB only,360
+resiprox,PL,MOB with other,464
+resiprox,PL,not MOB,9
+resiprox,TR,MOB only,522
+resiprox,TR,MOB with other,301
+resiprox,TR,not MOB,10
+resiprox,UA,MOB only,202
+resiprox,UA,MOB with other,545
+resiprox,UA,not MOB,86
+resiprox,US,MOB only,679
+resiprox,US,MOB with other,150
+resiprox,US,not MOB,4
+resiprox,VN,MOB only,154
+resiprox,VN,MOB with other,666
+resiprox,VN,not MOB,13
+soax,BR,MOB only,870
+soax,BR,MOB with other,6
+soax,DE,MOB only,217
+soax,DE,MOB with other,640
+soax,DE,not MOB,19
+soax,ES,MOB only,122
+soax,ES,MOB with other,568
+soax,FR,MOB only,355
+soax,FR,MOB with other,517
+soax,FR,not MOB,4
+soax,GB,MOB only,352
+soax,GB,MOB with other,508
+soax,GB,not MOB,15
+soax,ID,MOB only,598
+soax,ID,MOB with other,274
+soax,ID,not MOB,3
+soax,IN,MOB only,579
+soax,IN,MOB with other,292
+soax,IN,not MOB,4
+soax,PL,MOB only,472
+soax,PL,MOB with other,400
+soax,PL,not MOB,3
+soax,TR,MOB only,506
+soax,TR,MOB with other,364
+soax,TR,not MOB,5
+soax,UA,MOB only,304
+soax,UA,MOB with other,565
+soax,UA,not MOB,6
+soax,US,MOB only,522
+soax,US,MOB with other,352
+soax,US,not MOB,1
+soax,VN,MOB only,165
+soax,VN,MOB with other,364
+soax,VN,not MOB,28
